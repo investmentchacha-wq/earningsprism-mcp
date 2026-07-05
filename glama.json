@@ -1,6 +1,9 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": [
-    "investmentchacha-wq"
-  ]
+  "maintainers": ["investmentchacha-wq"],
+  "version": "1.0.0",
+  "name": "earningsprism-mcp",
+  "description": "Real-time AI-summarised SEC 8-K filings, 6-K FPI filings, and insider trades for 11,000+ US and international stocks across 12 global markets.",
+  "homepage": "https://www.earningsprism.com/newsroom",
+  "license": "MIT"
 }
